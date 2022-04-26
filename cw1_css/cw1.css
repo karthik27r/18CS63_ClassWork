@@ -1,0 +1,91 @@
+body {
+	background-color: #121d21;
+	font-family: Georgia, Cambria, "Times New Roman", serif;
+}
+
+header, footer {
+	color: white;
+	background-color: #3D6271;
+	margin: 0em 4em 0.5em 4em;
+
+}
+footer, header>div {
+	padding: 1em;
+}
+article {
+	color: #121d21;
+	background-color: #ffffff;
+	margin: 0em 4em 0.5em 4em;
+	padding: 1em;
+}
+
+nav ul li {
+	list-style: none;
+	display: inline;
+	padding: 1em;
+	line-height: 2em;
+}
+nav {
+	background-color: #bdd3db;
+	font-weight: bold;
+}
+.share{
+	color:white;
+}
+a:link {
+	color: #1aa3ff;
+}
+article a:visited {
+	color: #b380ff;
+}
+a:hover {
+	color: #e63900;
+}
+h1 {
+	font-size: 2em;
+	font-weight: 500;
+}
+h2 {
+	font-size: 1.5em;
+	font-weight: 100;
+}
+h3 {
+	font-size: 1.25em;
+}
+section>h3 {
+
+	border-bottom: .05em solid;
+	margin-top: 1em;
+}
+h3+* {
+	margin-top: 1em;
+}
+.spacing {
+	margin-top: .5em;
+	margin-bottom: .5em;
+}
+.credit {
+	color: #999999; 
+	font-style: italic;
+}
+figure img {
+	padding: .3em;
+	color: #999999;
+	border: .05em solid;
+}
+span.share {
+display: inline-block;
+width: 14px;
+height: 14px;
+background-position: -120px -72px;
+padding-right: 5px;
+}
+#sharebox {
+	background: url(https://wallpapercave.com/wp/F1UYM6x.png) repeat;
+	padding: .5em;
+	width: 500px;
+	border-radius: 4px;
+}
+section p {
+	margin-bottom: 1em;
+}

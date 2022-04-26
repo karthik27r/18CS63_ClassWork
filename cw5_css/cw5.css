@@ -1,0 +1,108 @@
+.heading{
+  border-bottom: solid;
+  border-width: 3px;
+  border-color: black;
+  padding: 10px;
+  color: white;
+  background-color: rgb(5, 5, 99);
+  font-size: large;
+}
+
+.center{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+footer{
+  color: white;
+  background-color: rgba(0, 0, 255, 0.447);
+  border: solid;
+  border-color: black;
+  border-width: 3px;
+  padding-top: 1em;
+  padding-right: 1em;
+  padding-left: 1em;
+  padding-bottom: 1em;
+  margin: 0em 4em 0.5em 4em;
+ 
+}
+.cmenu{
+  text-align: right;
+  background-color: rgba(26, 46, 176, 0.644);
+  padding-right: 15ex;
+}
+.cmenu2{
+  background-color: rgba(0, 0, 255, 0.13);
+}
+.section{
+  margin: 0em 4em 0.5em 4em;
+  border: solid;
+  border-width: 3px;
+}
+.txtalign{
+  display: block;
+  margin-left: 50%;
+  margin-right: 50%;;
+}
+
+
+.content{
+  padding: 10px;
+}
+
+.button{
+  background-color: rgba(0, 0, 255, 0.39);
+  border-top: solid;
+  padding: 5px;
+}
+
+.pimg{
+  align-content: center;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 10%;
+  padding: 3em;
+}
+
+#caption{
+  display: block;
+  padding-left: 50px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+}
+
+#img{
+  border: solid;
+  border-width: 2px;
+  padding: 5px;
+}
+
+ul, li{
+  display: inline;
+  padding-left: 1em;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+
+h1{
+  padding-top: 10px;
+  padding-bottom: 10px;
+  font-size: xx-large;
+  color: white;
+  padding-left: 2em;
+}
+
+#list1{
+  display: flex;
+  padding-left: 77em;
+  background-color: grey;
+}
+
+#list2{
+  background-color: lightgray;
+  display: flex;
+  padding-left: 3em;
+}
